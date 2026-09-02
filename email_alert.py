@@ -21,7 +21,8 @@ ALERT_EMAILS = [
     "knharikachithajallu@gmail.com ",
     "surekhautla1205@gmail.com ",
     "viswarupavaddepalli12@gmail.com ",
-    "dhanu.sunny54@gmail.com "
+    "dhanu.sunny54@gmail.com ",
+    "iicVVITU@VVITU.net"
 ]
 
 
